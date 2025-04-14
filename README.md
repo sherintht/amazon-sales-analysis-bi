@@ -2,7 +2,6 @@
 
 This project presents a visually rich and interactive **Power BI Dashboard** designed to analyze and monitor Amazon's sales data. The dashboard is built using a cleaned dataset with key sales indicators such as product category, location, quantity, and customer payment methods.
 
-
 ---
 
 ## 🔍 Dataset Overview
